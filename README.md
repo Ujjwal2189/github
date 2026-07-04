@@ -1,2 +1,2 @@
 # github
-This is for intro only
+This is for intro only.
